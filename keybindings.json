@@ -1,0 +1,70 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+	{
+		"key": "ctrl+shift+alt+cmd+enter",
+		"command": "editor.action.insertLineAfter",
+		"when": "editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "cmd+enter",
+		"command": "-editor.action.insertLineAfter",
+		"when": "editorTextFocus && !editorReadonly"
+	},
+	{
+		"key": "shift+space shift+enter",
+		"command": "colonize.hold",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+alt+enter",
+		"command": "-colonize.hold",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+shift+alt+cmd+p",
+		"command": "workbench.action.quickOpen"
+	},
+	{
+		"key": "cmd+p",
+		"command": "-workbench.action.quickOpen"
+	},
+	{
+		"key": "ctrl+shift+alt+cmd+b",
+		"command": "workbench.action.toggleSidebarVisibility"
+	},
+	{
+		"key": "cmd+b",
+		"command": "-workbench.action.toggleSidebarVisibility"
+	},
+	{
+		"key": "ctrl+shift+alt+cmd+`",
+		"command": "workbench.action.terminal.focus"
+	},
+	{
+		"key": "ctrl+shift+alt+cmd+`",
+		"command": "workbench.action.focusActiveEditorGroup",
+		"when": "terminalFocus"
+	},
+	{
+		"key": "ctrl+`",
+		"command": "-workbench.action.terminal.toggleTerminal"
+	},
+	{
+		"key": "ctrl+shift+alt+cmd+g",
+		"command": "extension.jumpy-word"
+	},
+	{
+		"key": "ctrl+shift+alt+cmd+n",
+		"command": "extension.jumpy-exit"
+	},
+	{
+		"key": "alt+left",
+		"command": "cursorWordStartLeft",
+		"when": "textInputFocus"
+	},
+	{
+		"key": "alt+left",
+		"command": "-cursorWordStartLeft",
+		"when": "textInputFocus"
+	}
+]

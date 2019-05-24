@@ -1,0 +1,93 @@
+{
+    "git.path": "/usr/bin",
+    "workbench.colorTheme": "Dracula",
+    "window.zoomLevel": 0,
+    "terminal.integrated.fontFamily": "Fira Code",
+    "files.autoSave": "onFocusChange",
+    "files.associations": {
+        "*.js": "javascriptreact"
+    },
+    "breadcrumbs.enabled": true,
+    "window.title": "${dirty} ${activeEditorMeidum}${separator}${rootName}",
+    "editor.insertSpaces": false,
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 13,
+    "terminal.integrated.fontSize": 10,
+    "editor.lineHeight": 20,
+    "editor.letterSpacing": 0.5,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.cursorStyle": "line",
+    "editor.cursorWidth": 5,
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.renderWhitespace": "all",
+    "editor.smoothScrolling": true,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.activityBar.visible": false,
+    "explorer.confirmDragAndDrop": false,
+    "emmet.triggerExpansionOnTab": true,
+    "editor.snippetSuggestions": "top",
+    "workbench.statusBar.feedback.visible": false,
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "newFile.defaultFileExtension": "",
+    "newFile.relativeTo": "project",
+    "css_peek.searchFileExtensions": [
+        ".css",
+        ".scss",
+        ".sass",
+        ".less"
+    ],
+    "explorer.confirmDelete": false,
+    "sync.gist": "c86f453070303af3f646a2521c3dc42c",
+    "sync.quietSync": false,
+    "sync.askGistName": false,
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true,
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.forceDownload": false,
+    "editor.foldingStrategy": "indentation",
+    "indentRainbow.colors": [
+        "rgba(40, 42, 54, 0)",
+        "rgba(30, 32, 40, 0.4)"
+    ],
+    "editor.colorDecorators": false,
+    "color-highlight.matchWords": true,
+    "files.useExperimentalFileWatcher": true,
+    "emmet.includeLanguages": {
+        "php": "html"
+    },
+    "emmet.showExpandedAbbreviation": "always",
+    "emmet.syntaxProfiles": {
+        "php": "html"
+    },
+    "editor.matchBrackets": true,
+    "[javascript]": {
+        "editor.formatOnSave": false
+    },
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.formatOnSave": true,
+    "[javascriptreact]": {
+        "editor.formatOnSave": false
+    },
+    "eslint.autoFixOnSave": true,
+    "beautify.language": {
+        "html": [
+            "html",
+            "php",
+            "erb"
+        ],
+        "css": [],
+        "js": []
+    },
+    "terminal.external.osxExec": "Kitty.app",
+    "terminal.explorerKind": "external",
+    "terminal.integrated.cursorBlinking": true
+}
