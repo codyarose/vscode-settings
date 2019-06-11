@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Brick & Maple",
+		"rootPath": "/Applications/MAMP/htdocs/bm-html",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "Lithium Pros",
+		"rootPath": "/Applications/MAMP/htdocs/lithpro-html",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	}
+]

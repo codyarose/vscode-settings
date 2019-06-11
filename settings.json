@@ -1,8 +1,7 @@
 {
     "git.path": "/usr/bin",
-    "workbench.colorTheme": "Dracula",
     "window.zoomLevel": 0,
-    "terminal.integrated.fontFamily": "Fira Code",
+    "terminal.integrated.fontFamily": "Victor Mono",
     "files.autoSave": "onFocusChange",
     "files.associations": {
         "*.js": "javascriptreact"
@@ -11,9 +10,9 @@
     "window.title": "${dirty} ${activeEditorMeidum}${separator}${rootName}",
     "editor.insertSpaces": false,
     "editor.minimap.enabled": false,
-    "editor.fontFamily": "Fira Code",
+    "editor.fontFamily": "Victor Mono",
     "editor.fontLigatures": true,
-    "editor.fontSize": 13,
+    "editor.fontSize": 16,
     "terminal.integrated.fontSize": 10,
     "editor.lineHeight": 20,
     "editor.letterSpacing": 0.5,
@@ -34,8 +33,6 @@
     "editor.snippetSuggestions": "top",
     "workbench.statusBar.feedback.visible": false,
     "workbench.settings.enableNaturalLanguageSearch": false,
-    "newFile.defaultFileExtension": "",
-    "newFile.relativeTo": "project",
     "css_peek.searchFileExtensions": [
         ".css",
         ".scss",
@@ -43,22 +40,13 @@
         ".less"
     ],
     "explorer.confirmDelete": false,
-    "sync.gist": "c86f453070303af3f646a2521c3dc42c",
-    "sync.quietSync": false,
-    "sync.askGistName": false,
-    "sync.removeExtensions": true,
-    "sync.syncExtensions": true,
-    "sync.autoDownload": false,
-    "sync.autoUpload": false,
-    "sync.forceDownload": false,
     "editor.foldingStrategy": "indentation",
     "indentRainbow.colors": [
         "rgba(40, 42, 54, 0)",
-        "rgba(30, 32, 40, 0.4)"
+        "rgba(3, 18, 30, 1)"
     ],
     "editor.colorDecorators": false,
     "color-highlight.matchWords": true,
-    "files.useExperimentalFileWatcher": true,
     "emmet.includeLanguages": {
         "php": "html"
     },
@@ -89,5 +77,6 @@
     },
     "terminal.external.osxExec": "Kitty.app",
     "terminal.explorerKind": "external",
-    "terminal.integrated.cursorBlinking": true
+    "terminal.integrated.cursorBlinking": true,
+    "workbench.colorTheme": "Night Owl",
 }
