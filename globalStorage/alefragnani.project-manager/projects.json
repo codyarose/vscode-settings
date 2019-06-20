@@ -12,5 +12,12 @@
 		"paths": [],
 		"group": "",
 		"enabled": true
+	},
+	{
+		"name": "Social Image Generator",
+		"rootPath": "/Users/codyrose/Documents/webDev/social-image-generator",
+		"paths": [],
+		"group": "",
+		"enabled": true
 	}
 ]

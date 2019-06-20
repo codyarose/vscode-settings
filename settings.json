@@ -79,4 +79,14 @@
     "terminal.explorerKind": "external",
     "terminal.integrated.cursorBlinking": true,
     "workbench.colorTheme": "Night Owl",
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/env": true
+    },
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/**": true
+    }
 }
