@@ -1,7 +1,7 @@
 {
     "git.path": "/usr/bin",
     "window.zoomLevel": 0,
-    "terminal.integrated.fontFamily": "Iosevka SS08",
+    "terminal.integrated.fontFamily": "Operator Mono",
     "files.autoSave": "onFocusChange",
     "files.associations": {
         "*.js": "javascriptreact"
@@ -10,12 +10,12 @@
     "window.title": "${dirty} ${activeEditorMeidum}${separator}${rootName}",
     "editor.insertSpaces": false,
     "editor.minimap.enabled": false,
-    "editor.fontFamily": "Iosevka SS08",
+    "editor.fontFamily": "Operator Mono",
     "editor.fontLigatures": true,
     "editor.fontSize": 14,
     "terminal.integrated.fontSize": 11,
     "editor.lineHeight": 20,
-    "editor.letterSpacing": 0.8,
+    "editor.letterSpacing": 0.5,
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
     "editor.cursorStyle": "line",
@@ -88,5 +88,6 @@
         "**/.git/objects/**": true,
         "**/.git/subtree-cache/**": true,
         "**/node_modules/**": true
-    }
+    },
+    "explorer.openEditors.visible": 0,
 }
